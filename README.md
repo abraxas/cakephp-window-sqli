@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-window-sqli">cakephp-window-sqli</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-window-sqli"><strong>https://abraxaslabs.tech/research/cakephp-window-sqli</strong></a>
+</p>
+
 
 # cakephp-window-sqli
 
